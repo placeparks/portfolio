@@ -69,8 +69,7 @@ height: 300px;
 @media (max-width: 600px) {
   .bg-img{
     margin-top: -450px;
-    width: 1500px;
-    height: 500px;
+    width: 1900px;
   }
   
   .card{
