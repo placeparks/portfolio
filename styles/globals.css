@@ -69,8 +69,8 @@ height: 300px;
 @media (max-width: 600px) {
   .bg-img{
     margin-top: -450px;
-    width: 1000px;
-margin-left:620px;
+    width: 1030px;
+margin-left:630px;
   }
   
   .card{
@@ -102,7 +102,7 @@ Width:1000px;
     margin-top: -270px;
     color: white;
     font-size: 20px;
-    margin-left: 100px;
+    margin-left: 200px;
     text-align: center;
   }
 
