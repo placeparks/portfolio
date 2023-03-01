@@ -69,7 +69,7 @@ height: 300px;
 @media (max-width: 600px) {
   .bg-img{
     margin-top: -450px;
-    width: 600px;
+    width: 800px;
     height: 400px;
   }
   
@@ -87,6 +87,7 @@ height: 300px;
     margin-top: -550px;
     background-image: radial-gradient(circle, #4fbdd3, #3fa3bc, #308aa5, #22718e, #155a76, #0f506b, #094661, #033d56, #033d55, #033d54, #043c53, #043c52);
    height: 3150px;
+Width:auto;
   }
   .work{
     color: white;
