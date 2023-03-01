@@ -20,24 +20,31 @@ a {
 
 .card{
   margin-right: 90px;
+  width: 640px;
 }
 .card-modify{
   margin-left: 100px;
   display: inline-flex;
-  margin-top: 80px;
+  margin-top: 70px;
 }
 .port-body{
-  margin-top: -15px;
+  margin-top: -65px;
   background-image: radial-gradient(circle, #4fbdd3, #3fa3bc, #308aa5, #22718e, #155a76, #0f506b, #094661, #033d56, #033d55, #033d54, #043c53, #043c52);
  
 }
 .work{
   color: white;
   margin-left: 30px;
+  margin-top: 62px;
 }
 .card-img-top{
 height: 300px;
-
+}
+.card-body{
+  background: radial-gradient(993px at 0.5% 98.5%, rgb(0, 239, 247) 0%, rgb(0, 122, 147) 46.7%, rgb(0, 29, 72) 100.2%);
+  }
+.card-text{
+  color: white;
 }
 
 .welcome-note{
